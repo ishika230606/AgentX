@@ -207,11 +207,11 @@ The primary objective of AgentX is to demonstrate how Agentic AI can automate co
 
 ## 👩‍💻 Author
 
-**YOUR NAME**
+Ishika
 
 AI & Machine Learning Student
 
-GitHub: https://github.com/YOUR-USERNAME
+GitHub: https://github.com/ishika230606
 
 ## 📜 License
 
